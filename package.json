@@ -1,0 +1,16 @@
+{
+  "name": "node-parse-rss",
+  "description": "RSS Feed Reader in Node.js",
+  "author": "https://github.com/nelsonic",
+  "dependencies": {
+    "feed-read": "*",
+    "reload": "^3.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/node-parse-rss.git"
+  }
+}
